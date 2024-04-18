@@ -232,7 +232,7 @@ span {
 }
 .button-p3 {
   display: inline-block;
-  padding: 12px 86px;
+  padding: 12px 42px;
   background-color: #dea34a;
   border-radius: 5px;
   color: #fff;
@@ -603,6 +603,7 @@ form {
   padding: 20px;
   background: #F9F9F9;
   border: 1px solid #E0E0E0;
+  border: rounded;
 }
 
 .coupon-section,
