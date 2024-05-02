@@ -12,7 +12,6 @@ This repository contains the code for a modern e-commerce platform designed usin
 
 Explore the functionality of this e-commerce platform by visiting: [E-Commerce](http://127.0.0.1:5500/index.html)
 
-
 ![Luxury Watch Display](./images/readme/home.png)
 ![Luxury Watch Display](./images/readme/product.html.png)
 ![Luxury Watch Display](./images/readme/cart.html.png)
@@ -20,6 +19,6 @@ Explore the functionality of this e-commerce platform by visiting: [E-Commerce](
 ![Luxury Watch Display](./images/readme/login.html.png)
 ![Luxury Watch Display](./images/readme/register.html.png)
 
-
-*Elegant display of luxury watches on our platform.*
-
+<p align="center"><b>
+ Thank you for visiting and exploring our project!</b>
+</p>
