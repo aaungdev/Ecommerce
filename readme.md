@@ -10,7 +10,7 @@ This repository contains the code for a modern e-commerce platform designed usin
 
 ## Demo
 
-Explore the functionality of this e-commerce platform by visiting: [E-Commerce](http://127.0.0.1:5500/index.html)
+Explore the functionality of this e-commerce platform by visiting: [E-Commerce](https://polite-river-010816b1e.5.azurestaticapps.net/index.html)
 
 ![Luxury Watch Display](./images/readme/home.png)
 ![Luxury Watch Display](./images/readme/product.html.png)
