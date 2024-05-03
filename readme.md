@@ -19,6 +19,5 @@ Explore the functionality of this e-commerce platform by visiting: [E-Commerce](
 ![Luxury Watch Display](./images/readme/login.html.png)
 ![Luxury Watch Display](./images/readme/register.html.png)
 
-<p align="center"><b>
- Thank you for visiting and exploring our project.</b>
-</p>
+## Contact
+For any inquiries or issues, please open an issue on the repository or contact aaungdev@outlook.com
